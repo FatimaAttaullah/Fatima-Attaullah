@@ -9,6 +9,7 @@ Welcome to my introduction repository! 🌸   This repo is all about me — my j
 ---
 
 ## 🔥 About Me  
+
 - 📘 Currently learning: **MS Word, Excel, PowerPoint, Networking, Python**  
 - 🐍 Next step: **Advanced Python + Cybersecurity**  
 - 🎯 Goal: Become a **Cybersecurity Professional & Ethical Hacker**  
@@ -16,46 +17,45 @@ Welcome to my introduction repository! 🌸   This repo is all about me — my j
 
 ---
 
-## 🛠️ Skills & Tools  
-✨ **MS Office**: Word | Excel | PowerPoint  
-🌐 **Networking**: IPs | Protocols | Basics of Internet  
-🐍 **Programming**: Python (Beginner → Advanced in progress)  
-🛡️ **Cybersecurity (Learning Path)** 
-## 🛠️ Skills & Tools  
+## 🛠️ Skills & Tools   
 
-### ✨ MS Office  
+ 
 <p>
-  <img src="https://img.icons8.com/color/96/microsoft-word-2019.png" width="60"/>
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
-  <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/microsoft-word-2019.png" width="80" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="80" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="80"/>
 </p>  
-**Tools:** Word | Excel | PowerPoint  
+Tools: Word | Excel | PowerPoint  
 
 ---
 
 ### 🌐 Networking  
 <p>
-  <img src="https://img.icons8.com/color/96/network.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/network.png" width="80"/>
+  <img src="https://img.icons8.com/color/96/internet.png" width="80" style="margin-left:10px;"/>
 </p>  
-**Skills:** IPs | Protocols | Basics of Internet  
+Skills: IPs | Protocols | Basics of Internet  
 
 ---
 
 ### 🐍 Programming  
 <p>
-  <img src="https://img.icons8.com/color/96/python.png" width="60"/>
+       <img src="https://img.icons8.com/color/96/python.png" width="80" style="margin-right:10px;"/>
+      
 </p>  
-**Skills:** Python (Beginner → Advanced in progress)  
+Skills: Python, JavaScript, Java (Beginner → Advanced in progress)  
 
 ---
 
 ### 🛡️ Cybersecurity  
 <p>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/96/external-cybersecurity-security-flat-flat-juicy-fish.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/cyber-security.png" width="80" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/96/hacker.png" width="80"/>
 </p>  
-**Path:** Learning Cybersecurity & Ethical Hacking  
+Path: Learning Cybersecurity & Ethical Hacking  
 
 ---
+
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
@@ -72,8 +72,26 @@ Welcome to my introduction repository! 🌸   This repo is all about me — my j
 
 ---
 
-## 📫 Connect with Me  
-💼 [LinkedIn](#) | 🌐 [Portfolio (Coming Soon!)](#) | 📧 fatimybaloch@gmail.com  
+## 📬 Connect With Me
+
+<p>
+  <a href=(https://www.linkedin.com/in/fatima-attaullah-0aa616339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="80" style="margin-right:15px;"/>
+  </a>
+  <a href="mailto:your. fatimybaloch@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail.png" width="80" style="margin-right:15px;"/>
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.icons8.com/color/96/twitter.png" width="80" style="margin-right:15px;"/>
+  </a>
+  <a href=https://www.facebook.com/share/1Lfy828kcX/ target="_blank">
+    <img src="https://img.icons8.com/color/96/facebook.png" width="80" style="margin-right:15px;"/>
+  </a>
+  <a href=https://www.instagram.com/balushiii__26?igsh=MTRjanAxY2ZqOWlydQ== target="_blank">
+    <img src="https://img.icons8.com/color/96/instagram-new.png" width="80"/>
+  </a>
+</p>
+  
 
 ---
 
