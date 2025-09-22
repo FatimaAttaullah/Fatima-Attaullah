@@ -1,6 +1,9 @@
-👋 Hello I am Fatima
-Welcome to my introduction repository! 🌸   This repo is all about me — my journey, skills, interests, and projects.
-# 🌟 Hello, I'm Fatima!  
+
+
+# Welcome to My introduction Repository 🌸
+This repository contains my learning, interest, projects, skills, and professional work. Explore and feel free to connect
+
+  🌟 Hello, I'm Fatima!  
 
 🎓 **Student of Computer & Information Technology (CIT)**  
 💻 Passionate about **MS Office | Networking | Python | Cybersecurity**  
