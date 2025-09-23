@@ -46,7 +46,7 @@ Skills: IPs | Protocols | Basics of Internet
        <img src="https://img.icons8.com/color/96/python.png" width="80" style="margin-right:10px;"/>
       
 </p>  
-Skills: Python, JavaScript, Java (Beginner → Advanced in progress)  
+Skills: Python (Beginner → Advanced in progress)  
 
 ---
 
