@@ -61,9 +61,9 @@ Path: Learning Cybersecurity & Ethical Hacking
 
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
+
 
 ---
 
