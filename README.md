@@ -1,18 +1,28 @@
 
 # Welcome to My introduction Repository 🌸
 This repository contains my learning, interest, projects, skills, and professional work. Explore and feel free to connect
-
-  🌟 Hello, I'm Fatima!  
 <div align="center">
 
-![Girl Working on PC](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGdrZDdhMWhreDJ1bzZnMGhuZTFicGZvaTcxZjIzNjh3aHZyaTNtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)
+<table>
+<tr>
+<td align="left">
 
-</div>
+🌟 **Hello, I'm Fatima!**  
 
-🎓 **Student of Computer & Information Technology (CIT)**                         
+🎓 Student of **Computer & Information Technology (CIT)**  
 💻 Passionate about **MS Office | Networking | Python | Cybersecurity**  
 🚀 On a journey from **Python basics ➝ Python advanced ➝ Cybersecurity**  
-                       
+
+</td>
+<td align="right">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGdrZDdhMWhreDJ1bzZnMGhuZTFicGZvaTcxZjIzNjh3aHZyaTNtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="350">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🔥 About Me  
 
